@@ -77,16 +77,27 @@ Client → Express API → BullMQ Queue → Worker → MongoDB
 ## 📸 Screenshots
 
 ### 🚀 Signal Creation + Queue Processing
-![Signal Flow](Screenshot/Screenshot%202026-05-05%20173504.png)
+![Signal Flow](screenshots/Screenshot%202026-05-05%20173504.png)
+
+---
 
 ### 📡 GET Signals (MongoDB Data)
-![GET Signals](Screenshot/Screenshot%202026-05-05%20173602.png)
+![GET Signals](screenshots/Screenshot%202026-05-05%20173602.png)
+
+---
 
 ### 🔄 Incident Closure (PATCH)
-![Close Incident](Screenshot/Screenshot%202026-05-05%20174026.png)
+![Close Incident](screenshots/Screenshot%202026-05-05%20173659.png)
+
+---
 
 ### ⚡ Full Flow (API → Worker)
-![Full Flow](Screenshot/Screenshot%202026-05-05%20175132.png)
+![Full Flow](screenshots/Screenshot%202026-05-05%20174026.png)
+
+---
+
+### 📊 Additional Proof
+![Extra](screenshots/Screenshot%202026-05-05%20175132.png)
 
 ## 💼 Author
 
