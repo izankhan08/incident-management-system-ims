@@ -74,6 +74,19 @@ Client → Express API → BullMQ Queue → Worker → MongoDB
 6. Data stored in MongoDB
 
 ---
+## 📸 Screenshots
+
+### 🚀 Signal Creation + Queue Processing
+![Signal Flow](Screenshot/Screenshot%202026-05-05%20173504.png)
+
+### 📡 GET Signals (MongoDB Data)
+![GET Signals](Screenshot/Screenshot%202026-05-05%20173602.png)
+
+### 🔄 Incident Closure (PATCH)
+![Close Incident](Screenshot/Screenshot%202026-05-05%20174026.png)
+
+### ⚡ Full Flow (API → Worker)
+![Full Flow](Screenshot/Screenshot%202026-05-05%20175132.png)
 
 ## 💼 Author
 
